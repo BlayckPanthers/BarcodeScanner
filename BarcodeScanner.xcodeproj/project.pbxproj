@@ -12,6 +12,7 @@
 		495AECD925BF365E00BCE0A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 495AECD825BF365E00BCE0A2 /* Preview Assets.xcassets */; };
 		495AECE325BF376300BCE0A2 /* BarcodeScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AECE225BF376300BCE0A2 /* BarcodeScannerView.swift */; };
 		495AECE725BF3DE800BCE0A2 /* ScannerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AECE625BF3DE800BCE0A2 /* ScannerVC.swift */; };
+		495AECEB25BF461F00BCE0A2 /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 495AECEA25BF461F00BCE0A2 /* ScannerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		495AECDA25BF365E00BCE0A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		495AECE225BF376300BCE0A2 /* BarcodeScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeScannerView.swift; sourceTree = "<group>"; };
 		495AECE625BF3DE800BCE0A2 /* ScannerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerVC.swift; sourceTree = "<group>"; };
+		495AECEA25BF461F00BCE0A2 /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				495AECD125BF365D00BCE0A2 /* BarcodeScannerApp.swift */,
 				495AECE225BF376300BCE0A2 /* BarcodeScannerView.swift */,
+				495AECEA25BF461F00BCE0A2 /* ScannerView.swift */,
 				495AECE625BF3DE800BCE0A2 /* ScannerVC.swift */,
 				495AECD525BF365E00BCE0A2 /* Assets.xcassets */,
 				495AECDA25BF365E00BCE0A2 /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				495AECE725BF3DE800BCE0A2 /* ScannerVC.swift in Sources */,
+				495AECEB25BF461F00BCE0A2 /* ScannerView.swift in Sources */,
 				495AECE325BF376300BCE0A2 /* BarcodeScannerView.swift in Sources */,
 				495AECD225BF365D00BCE0A2 /* BarcodeScannerApp.swift in Sources */,
 			);
